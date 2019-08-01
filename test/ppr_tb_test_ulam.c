@@ -14,7 +14,7 @@
 
 #include <stdio.h>
 #include <stdlib.h>
-
+#include<ulam.c>
 #ifdef TESTBENCH
 #include "ppr_tb_logging.h"
 #endif
