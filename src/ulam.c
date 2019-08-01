@@ -142,7 +142,7 @@ int ulam(int an)
     /* Für negative Zahlen und 0 gibt es keinen nächsten ULAM-Wert. */
     if (an < 1)
     {
-        return -1;
+        return 1;
     }
 
     /* Berechnung des nächsten ULAM-Werts */
